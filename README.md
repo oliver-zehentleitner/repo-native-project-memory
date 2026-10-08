@@ -1,5 +1,7 @@
 # Repo-native project memory
 
+[![Keep the Why](https://keepthewhy.com/assets/badge.svg)](https://keepthewhy.com) [![Keep the Why · live](https://oliver-zehentleitner.github.io/repo-native-project-memory/dashboard/live/badge-entries.svg)](https://oliver-zehentleitner.github.io/repo-native-project-memory/dashboard/live/)
+
 <a href="https://oliver-zehentleitner.github.io/repo-native-project-memory/"><img src="images/repo-native-project-memory.png" alt="A box of file cards — README.md, docs/, tests/, config/ — and one glowing green card, context/, with the Git logo on the box; beside it the words Repo-native Project Memory" width="900"></a>
 
 **Your repository already is your project's memory. One layer was missing.**
