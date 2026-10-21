@@ -8,7 +8,7 @@ README, for what Keep the Why actually is.
 - dashboard-state: https://oliver-zehentleitner.github.io/repo-native-project-memory/dashboard/live/state.json
 - context: `context/`
 - init: complete
-- context-schema: 0.20.2
+- context-schema: 0.20.3
 - capture-confirmation: confirm-when-unsure
 - source-reference: never
 <!-- /keep-the-why:config -->

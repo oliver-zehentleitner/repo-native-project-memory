@@ -51,4 +51,4 @@ or write it, and the skill installs neither on its own:
   what still needs a person. Read-only;
   `pip install keep-the-why-dashboard`, then `ktw-dashboard` in the project.
 
-Start with the [context index](index.md).
+Start with the [context index](index.md), or browse it all in the [dashboard](https://oliver-zehentleitner.github.io/repo-native-project-memory/dashboard/live/).
